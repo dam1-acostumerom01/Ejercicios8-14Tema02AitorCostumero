@@ -2,7 +2,9 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/alumno/Downloads/xstream-distribution-1.4.10-bin/xstream-1.4.10/lib/xstream-1.4.10.jar"/>
-	<classpathentry kind="lib" path="C:/Users/alumno/Downloads/xstream-distribution-1.4.10-bin/xstream-1.4.10/lib/xstream/kxml2-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aitor Costumero/Downloads/xstream-distribution-1.4.10-bin/xstream-1.4.10/lib/xstream-1.4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aitor Costumero/Downloads/xstream-distribution-1.4.10-bin/xstream-1.4.10/lib/xstream/kxml2-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aitor Costumero/Downloads/gson-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aitor Costumero/Desktop/FINDE/ACADT/ELEMENTOS EJERCICIOS/librerias/librerias/stax-1.2.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

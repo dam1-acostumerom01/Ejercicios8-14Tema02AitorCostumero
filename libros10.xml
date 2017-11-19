@@ -1,0 +1,10 @@
+<Ejercicio10.ListaLibros>
+  <DatosLibro>
+    <ISBN>978-84-9964-239</ISBN>
+    <titulo>Acceso a Datos</titulo>
+    <autor>
+      <string>JosÃ© Eduardo CÃ³rcoles Tendero</string>
+    </autor>
+    <editorial>Garceta</editorial>
+  </DatosLibro>
+</Ejercicio10.ListaLibros>
